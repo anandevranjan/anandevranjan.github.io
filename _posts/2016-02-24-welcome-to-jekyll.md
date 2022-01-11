@@ -3,7 +3,7 @@ title:  "Welcome to Nature's Nature!"
 header:
   teaser: "https://www.slrlounge.com/wp-content/uploads/2016/02/when-to-shoot-hdr.jpg"
 categories: 
-  - Jekyll
+  - Publications
 tags:
   - update
 ---
