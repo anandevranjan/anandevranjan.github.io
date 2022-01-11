@@ -1,7 +1,7 @@
 ---
 title:  "Directed Self-Assembly Driven Mesoscale Lithography Using Laser-Induced and Manipulated Microbubbles: Complex Architectures and Diverse Applications"
 header:
-  teaser: "/assets/my-photo.jpg"
+  teaser: "/assets/images/my-photo.jpg"
 categories: 
   - Publications
 tags:
