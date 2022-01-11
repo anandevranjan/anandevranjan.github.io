@@ -1,7 +1,7 @@
 ---
 title:  "Directed Self-Assembly Driven Mesoscale Lithography Using Laser-Induced and Manipulated Microbubbles: Complex Architectures and Diverse Applications"
 header:
-  teaser: "https://www.slrlounge.com/wp-content/uploads/2016/02/when-to-shoot-hdr.jpg"
+  teaser: "/assets/my-photo.jpg"
 categories: 
   - Publications
 tags:
