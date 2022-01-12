@@ -12,4 +12,4 @@ A microbubble nucleated due to the absorption of a tightly focused laser at the 
 
 [Paper-Link](https://pubs.acs.org/doi/10.1021/acs.nanolett.0c03839)
 
-![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/nl0c03839_008.gif)
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/nl0c03839_0008.gif)
