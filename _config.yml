@@ -24,7 +24,7 @@ description              : "Nature's Nature"
 url                      : "https://mmistakes.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/500x300.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/air_trap.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Anand Dev Ranjan"
   avatar           : "/assets/images/my_photo.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **experimental physicist** working in area of optics"
+  bio              : "I am an **experimental physicist** working in area of optics. My current research interests is the study and application of microbubbles formed using optical tweezers."
   location         : "IISER Kolkata"
   email            :
   links:
@@ -113,7 +113,7 @@ author:
       url: "mailto: anandevranjan@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "anandevranjan.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -122,7 +122,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/anandev"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -130,6 +130,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto: anandevranjan@email.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
@@ -138,10 +141,10 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/anandev"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      # url: 
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
