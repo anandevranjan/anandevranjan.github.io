@@ -12,7 +12,7 @@ A microbubble nucleated due to the absorption of a tightly focused laser at the 
 
 <figure style="width: 300px">
   <img src="/assets/images/nl0c03839_0008.gif" alt="">
-  <figcaption>Massive image comment for your eyeballs.</figcaption>
+  <figcaption>Various applications of microbubble lithography</figcaption>
 </figure> 
 
 
