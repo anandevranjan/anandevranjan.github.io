@@ -1,7 +1,7 @@
 ---
 title:  "Detection of self-generated nanowaves on the interface of an evaporating sessile water droplet"
 header:
-  teaser: "https://www.slrlounge.com/wp-content/uploads/2016/02/when-to-shoot-hdr.jpg"
+  teaser: "/assets/images/nanowaves1.jpeg"
 categories: 
   - Publications
 tags:
