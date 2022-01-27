@@ -1,7 +1,7 @@
 --
 title:  "Patent: Laser induced Micro-bubble based patterning of biological macromolecules towards bio-sensing applications"
 header:
-  teaser: ""
+  teaser: "\aafa"
 categories: 
   - Patent
 tags:
