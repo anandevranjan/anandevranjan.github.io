@@ -15,6 +15,11 @@ A microbubble nucleated due to the absorption of a tightly focused laser at the 
   <figcaption>Various applications of microbubble lithography</figcaption>
 </figure> 
 
+<figure class="align-center">
+  <img src="/assets/images/nl0c03839_0008.gif" alt="">
+  <figcaption>Various applications of microbubble lithography</figcaption>
+</figure> 
+
 
 [Paper-Link](https://pubs.acs.org/doi/10.1021/acs.nanolett.0c03839)
 
