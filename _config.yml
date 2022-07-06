@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Anand Dev Ranjan"
-  avatar           : "/assets/images/My_Image_060722.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/My_Image_060722.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Research Scholar"
   location         : "IISER Kolkata"
   email            :
