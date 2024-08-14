@@ -1,5 +1,5 @@
 ---
-title:  "The role of substrates in obtaining giant enhancement in the conductivity of PSS:PEDOT micropatterns using microbubble lithography"
+title:  "Biologically Active Micropatterns of Biomolecules and Living Matter Using Microbubble Lithograph"
 header:
   teaser: "/assets/images/SEM-Glass.png"
 categories: 
