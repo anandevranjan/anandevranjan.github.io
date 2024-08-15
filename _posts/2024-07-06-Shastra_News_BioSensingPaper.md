@@ -11,8 +11,8 @@ tags:
 Our paper got highlighted in the Shastra Magazine - <a href="https://shaastramag.iitm.ac.in/news-brief/bubble-based-diagnosis-bacterial-and-viral-diseases"> Bubble-based diagnosis of bacterial and viral diseases </a>. 
 
 <figure class="align-center">
-  <img src="/assets/images/SEM-Glass.png" alt="">
-  <figcaption>Electron microscopy image of PEDOT:PSS patterns formed using microbubble lithography</figcaption>
+  <img src="/assets/images/Shastra_Image.jpg" alt="">
+  <figcaption> We performing the patterning using microbubble lithography</figcaption>
 </figure> 
 
 
