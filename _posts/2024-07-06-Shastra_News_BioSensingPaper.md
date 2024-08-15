@@ -12,7 +12,7 @@ Our paper got highlighted in the Shastra Magazine - <a href="https://shaastramag
 
 <figure class="align-center">
   <img src="/assets/images/Shastra_Image.jpg" alt="">
-  <figcaption> We performing the patterning using microbubble lithography</figcaption>
+  <figcaption> Me, Prof. Ayan and Anurit performing and analysing the patterns formed using microbubble lithography</figcaption>
 </figure> 
 
 
